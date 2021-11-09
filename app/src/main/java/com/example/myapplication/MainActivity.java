@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 // This is some demo app
+//  This app will demonstate CRUD
 
 public class MainActivity extends AppCompatActivity {
 
